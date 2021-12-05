@@ -1,0 +1,12 @@
+{
+  "name": "number-of-islands",
+  "version": "1.0.0",
+  "description": "Implementa map problem in TypeScript!",
+  "main": "index.js",
+  "author": "UD",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
