@@ -1,0 +1,12 @@
+{
+  "name": "doubly-linked-list",
+  "version": "1.0.0",
+  "description": "Implement a BST in TypeScript!",
+  "main": "index.js",
+  "author": "UD",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
